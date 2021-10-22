@@ -1,5 +1,5 @@
 fn max(x: i32, y: i32) -> i32{
-    if (x > y) { 
+    if x > y { 
         return x
     } else {
         return y
